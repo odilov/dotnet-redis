@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "eHhwVaflDbcRENjSLmVHG32xFCQm+ChTAzQ6cb/MijwqHJP146a5K3g6qSZN/mcYEztaUhCBqjRfwbbelmTAXA==",
+  "success": true,
+  "projectFilePath": "/Users/marshall/Documents/dev/dotnet-redis/dotnet-redis.csproj",
+  "expectedPackageFiles": [
+    "/Users/marshall/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "/Users/marshall/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/Users/marshall/.nuget/packages/swashbuckle.aspnetcore/6.2.3/swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "/Users/marshall/.nuget/packages/swashbuckle.aspnetcore.swagger/6.2.3/swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "/Users/marshall/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.2.3/swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "/Users/marshall/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.2.3/swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}

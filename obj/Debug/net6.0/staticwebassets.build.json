@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "zhFZuze60vjg/i16TmQTaQ1mDfb9/yGJV/cHSUcuHWo=",
+  "Source": "dotnet-redis",
+  "BasePath": "_content/dotnet-redis",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
