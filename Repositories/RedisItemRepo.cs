@@ -25,6 +25,7 @@ namespace DotnetRedis.Repositories
             var serialItem = JsonSerializer.Serialize(item);
 
             db.StringSet(item.Id, serialItem);
+            db.SetAdd("ItemSet", serialItem);
         }
 
         public Item? GetItemById(string id)
